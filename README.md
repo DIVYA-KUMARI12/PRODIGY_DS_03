@@ -31,8 +31,7 @@ This project focuses on building a decision tree classifier to predict whether a
 ## Prerequisites
 - Python 3.7+ Required Python libraries can be installed using pip: pip install pandas scikit-learn matplotlib Usage 1.Clone the repository to your local machine:
 
-- git clone https://github.com/DIVYA-KUMARI12/PRODIGY_DS_03/blob/main/PRODIGY_DS_03.ipynb
-
+- git clone: https://github.com/DIVYA-KUMARI12/PRODIGY_DS_03/blob/main/PRODIGY_DS_03.ipynb
 - Navigate to the project directory: cd decision-tree-customer-prediction
 
 - Run the Jupyter notebook Customer_Purchase_Prediction.ipynb to explore the project and train the decision tree classifier.
