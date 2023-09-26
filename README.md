@@ -42,7 +42,7 @@ This project focuses on building a decision tree classifier to predict whether a
 - Hyperparameter tuning is performed using GridSearchCV to find the best combination of hyperparameters.
 # Results
 - The final decision tree classifier achieves an accuracy of approximately 85% on the test data.
-- The trained decision tree is visualized and saved as decision_tree.png.
+- The trained decision tree is visualized and saved as decision_tree in Download.png.
 ## Contributing
 - Contributions and improvements are welcome! Feel free to create issues or pull requests.
 
